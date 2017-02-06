@@ -1,0 +1,9 @@
+{
+	"Prix": {"type": "integer"},
+	"Ville": {"type": "string"},
+	"Type": {"type": "string"},
+	"Piece": {"type": "integer"},
+	"Surface": {"type": "double"},
+	"Frais d'agence"{"type": "string"},
+	"required": ["Prix", "Ville", "Type", "Piece", "Surface"]
+}

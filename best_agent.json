@@ -1,0 +1,11 @@
+{
+	"Adresse": {"type":""string""},
+	"Ville": {"type":"string"},
+	"Type": {"type":"string"},
+	"Surface ": {"type":"integer"},
+	"Pieces": {"type": "integer"},
+	"Bathroom":{"type":"string"},
+	"Qualité de l'appartement":{"type":"string"},
+	"Etage": {"type":"integer"},
+	"required":["Adresse", "Ville", "Type", "Surface", "Pieces", "Bathroom", "Qualité de l'appartement","Etage"]
+}
